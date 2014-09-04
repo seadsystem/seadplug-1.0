@@ -1,10 +1,10 @@
 seadplug-1.0
 ============
-## seadplug-1.0 [![Build Status](http://sead.systems)](http://sead.systems)
+ seadplug-1.0 (http://sead.systems)
 
-###Sead plug firmware
-##provides realtime data plug load data  
-##possible sensor integration
+Sead plug firmware
+provides realtime data plug load data  
+possible sensor integration
 
 [Read more about Seads](http://sead.systems/#wiki)
 
